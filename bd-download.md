@@ -40,4 +40,5 @@ createuser -P -s postgres
 
 ## Установка DBeaver Community на свой ПК
 
+- [Ссылка на инструкцию](https://github.com/netology-code/sqlpy-code/blob/main/02/DBeaver.md)
 - [Ссылка для скачивания](https://dbeaver.io/download/)
